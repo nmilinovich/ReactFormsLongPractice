@@ -1,8 +1,14 @@
 import React from 'react';
+import SurveyRoutes from './components/surveyRoutes';
+
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <>
+      <h1>React Forms Long Practice</h1>
+      <SurveyRoutes/>
+    </>
+
   );
 }
 
